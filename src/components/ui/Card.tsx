@@ -14,21 +14,21 @@ export function Card() {
           translateZ="50"
           className="text-xl font-bold text-white dark:text-white"
         >
-          Jessica Randall
+          Cauã Carvalho
         </CardItem>
         <CardItem
           as="p"
           translateZ="60"
           className="text-[#c5f82a] text-sm max-w-sm mt-2 dark:text-neutral-300"
         >
-          London, United Kingdom
+          Los Angeles, USA
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
           <Image
-            src="/vercel.svg"
+            src="/102489942.jfif"
             height="200"
             width="200"
-            className="h-20 w-full object-cover rounded-xl group-hover/card:shadow-xl"
+            className=" w-full object-cover rounded-full group-hover/card:shadow-xl"
             alt="thumbnail"
           />
         </CardItem>
